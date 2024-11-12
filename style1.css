@@ -1,0 +1,152 @@
+/* 1-е задание домашки */
+
+body{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.ser{
+    display: flex;
+    justify-content: space-between;
+    flex-flow: wrap;
+   
+}
+.fruit{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 30px;
+    border: 2px solid;
+    border-radius: 30px;
+}
+label{
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+    /* 2-е задание домашки */
+/* 
+ body{
+    margin: 0 auto;
+    max-width: 500px;
+}
+.MainDiv{
+    width: 300px;
+    flex-direction: column;
+}
+.divclass{    
+    background-color: rgb(122, 122, 122);
+    
+}
+img{
+    width: 50px;
+    padding: 0 10px 0 10px;
+}
+.divclass:hover{
+   background: rgb(64, 64, 64);
+} */
+
+    /* 3-е задание домашки */
+
+/* 
+    body{
+        max-width: 900px;
+        margin: 0 auto;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 25px;
+    }
+    .header{
+        background-color: rgb(199, 14, 91);
+        height: 100px;
+    }
+    .menu{
+        background-color: rgb(158, 6, 69);
+        height: 70px;
+        margin: 10px 0;
+    }
+    .aside1{
+        background-color: rgb(221, 30, 110);
+        height: 100px;
+        width: 250px;
+    }
+    .aside2{
+        background-color: rgb(221, 30, 110);
+        height: 100px;
+        width: 250px;
+        margin: 10px 0;
+    }
+    .main{
+        background-color: rgb(211, 13, 95);
+        width: 530px;
+        height: 250px;
+    }
+    .sektion{
+        background-color: rgb(230, 81, 143);
+        margin: 10px 60px;
+        height: 80px;
+    }
+    .aside3{
+        background-color: rgb(221, 30, 110);
+        height: 210px;
+        width: 80px;
+        margin: 10px 0;
+    }
+    .content{
+        display: flex;
+        justify-content: space-between;
+    } */
+
+    /* 4-е задание домашки */
+/*     
+    body{
+        max-width: 1000px;
+        margin: 0 auto;
+        background: #306b9b;
+        font-family: sans-serif;
+        color: white;
+    }
+    h4:hover{
+        text-decoration: underline;
+    }
+    .content{
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    .images{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    
+    }
+    .image1{
+        margin: 10px;
+        background-repeat: no-repeat;
+        background-image: url("images/fb.png");
+    }
+    .image2{
+        margin: 10px;
+        background-repeat: no-repeat;
+        background-image: url("images/insta.png");
+    }
+    .image3{
+        margin: 10px;
+        background-repeat: no-repeat;
+        background-image: url("images/youtube.png");
+    }
+    .img:hover{
+        opacity: 0;
+        border: solid 1px red;
+    }
+    .bottom{
+        text-align: center;
+    } */
